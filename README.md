@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taha-Daneshmand
 - 👀 I’m from Iran 
 - 🌱 I'm 14 years old
-- 🔎 I’m currently learning AI
+- 🔎 I’m currently learning Web developing
 - 📫 My G-mail: taha88daneshmand.work@gmail.com
 
 <!---
