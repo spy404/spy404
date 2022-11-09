@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiero-zeo&show_icons=true&locale=en&layout=compact" alt="tiero-zeo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiero-zeo&show_icons=true&locale=en" alt="tiero-zeo" /></p>
+[![tierp's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/tiero-zero/tiero-zero)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiero-zeo&" alt="tiero-zeo" /></p>
