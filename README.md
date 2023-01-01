@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiero-zero&label=Profile%20views&color=0e75b6&style=plastic" alt="tiero-zeo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiero-zeo" alt="tiero-zeo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiero-zero" alt="tiero-zero" /></a> </p>
 
 - 🔭 I’m currently working on **Tattacker**
 
