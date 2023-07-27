@@ -1,7 +1,7 @@
 <a href="https://github.com/spy404" target="_blank" align="center">
   <img src="https://s2.uupload.ir/files/github-header-image_zm3n.jpg" border="0" alt="spy404" />
 </a>
-<center></center><a href="https://visitorbadge.io/status?path=spy404"><img src="https://api.visitorbadge.io/api/visitors?path=spy404&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" /></a></center>
+<center><img src="https://api.visitorbadge.io/api/visitors?path=spy404&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" /></center>
 <br />
 <br />
 <p align="center"> Hi, I'm <b> spy404 <b>! Iranian <b> Front-end </b> and <b> Technology </b> lover. </p>
