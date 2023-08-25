@@ -19,7 +19,7 @@
   <a href="https://www.reddit.com/user/spy404_/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
-  <a href="https://discord.gg/yU48UpWfar">
+  <a href="https://discord.gg/EzfVYvMF8Y">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto: spy404.work@gmail.com">  
