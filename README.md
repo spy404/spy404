@@ -16,7 +16,7 @@
   <a href="https://medium.com/@spy404/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/spy404_ir/">
+  <a href="https://www.reddit.com/user/spy404_/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
   <a href="https://discord.gg/yU48UpWfar">
